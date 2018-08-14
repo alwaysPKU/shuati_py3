@@ -15,3 +15,7 @@ if __name__ == '__main__':
                 t_list[i]='0'+t[1]
         res=':'.join(t_list)
         print(res)
+
+
+
+

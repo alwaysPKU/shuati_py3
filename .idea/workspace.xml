@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="814eaff6-177c-4257-8a96-6120f162b713" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leet_code.py" afterPath="$PROJECT_DIR$/leet_code.py" />
-    </list>
+    <list default="true" id="814eaff6-177c-4257-8a96-6120f162b713" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,18 +52,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NETS/1.3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1420">
-              <caret line="72" column="28" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
-              <folding>
-                <element signature="e#14#24#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="4.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NETS/4.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -87,11 +72,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="56.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="56.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/56.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="256">
               <caret line="48" column="18" lean-forward="false" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="97.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/97.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="421">
+              <caret line="37" column="28" lean-forward="false" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -174,6 +169,7 @@
         <option value="$PROJECT_DIR$/bytedance/1.py" />
         <option value="$PROJECT_DIR$/leet_code.py" />
         <option value="$PROJECT_DIR$/leetcode/56.py" />
+        <option value="$PROJECT_DIR$/leetcode/97.py" />
       </list>
     </option>
   </component>
@@ -565,13 +561,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tengxun_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leet_code.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
@@ -925,6 +914,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="48" column="18" lean-forward="false" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/97.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="37" column="28" lean-forward="false" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
           <folding />
         </state>
       </provider>

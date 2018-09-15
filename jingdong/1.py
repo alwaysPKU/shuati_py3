@@ -14,9 +14,4 @@ if __name__ == '__main__':
     for i in range(l_s):
         j = l_t
         tmp=l_s
-        while j:
-
-
-
-                ababcb
-                xyx
+            
